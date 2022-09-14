@@ -20,7 +20,7 @@
   ],
   "languages": [
   ],
-  "url": "https://github.com/cswendrowski/FoundryVTT-module",
-  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+  "url": "https://github.com/Zapgun/ose-tweaks",
+  "manifest": "https://raw.githubusercontent.com/Zapgun/ose-tweaks/main/module.json",
+  "download": "https://github.com/Zapgun/ose-tweaks/releases/download/v0.0.1/ose-tweaks.zip"
 }
