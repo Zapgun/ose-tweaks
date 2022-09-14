@@ -1,0 +1,26 @@
+{
+  "name": "ose-tweaks",
+  "title": "OSE Tweaks",
+  "description": "A few minor tweaks to the existing OSE system (as of version 1.5.1",
+  "version": "0.0.1",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "19",
+  "author": "Zapgun <zapgun4foundry at gmail>",
+  "dependencies": [
+
+  ],
+  "esmodules": [
+    "/scripts/module.js"
+  ],
+  "scripts": [
+    "/scripts/lib/lib.js"
+  ],
+  "styles": [
+    "/styles/module.css"
+  ],
+  "languages": [
+  ],
+  "url": "https://github.com/cswendrowski/FoundryVTT-module",
+  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
+  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+}
