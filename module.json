@@ -20,6 +20,9 @@
   ],
   "languages": [
   ],
+  "system": [
+    "ose"
+  ],
   "url": "https://github.com/Zapgun/ose-tweaks",
   "manifest": "https://raw.githubusercontent.com/Zapgun/ose-tweaks/main/module.json",
   "download": "https://github.com/Zapgun/ose-tweaks/releases/download/v0.0.1/ose-tweaks.zip"
